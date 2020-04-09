@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["DiagnosticSink",""],["MatchArm",""],["MissingFields",""],["MissingMatchArms",""],["MissingOkInTailExpr",""],["NoSuchField",""],["UnresolvedModule",""]],"trait":[["AstDiagnostic",""],["Diagnostic",""]]});
